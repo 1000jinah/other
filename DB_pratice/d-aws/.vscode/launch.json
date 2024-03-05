@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DneuroApplication<dneuro-back>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.dneuro.test.dneuro.DneuroApplication",
+            "projectName": "dneuro-back",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
